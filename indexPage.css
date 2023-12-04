@@ -1,0 +1,63 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#loginText{
+    margin: 50px;
+    text-align: center;
+}
+.login{
+    width: 500px;
+    height: 250px;
+    overflow: hidden;
+    margin: auto;
+    margin: 50px 0 0 450px;
+    padding: 80px;
+    background: #23463f;
+    border-radius: 15px ;
+}
+label{
+    color: #08ffd1;
+    font-size: 17px;
+}
+#name{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 7px;
+    padding-left: 8px;
+    margin-bottom: 10px;
+}
+#password{
+    width: 300px;
+    height: 30px;
+    border-radius: 7px;
+    padding-left: 8px;
+    margin-bottom: 10px;
+}
+#email{
+    width: 300px;
+    height: 30px;
+    border-radius: 7px;
+    padding-left: 8px;
+    margin-bottom: 10px;
+}
+#signup         {
+    margin: 10px;
+    width: 312px;
+    height: 30px;
+   margin-left: 0px;
+   margin-bottom: 20px;
+   border-radius:50px;
+}
+#form{
+    padding-left: 50px;
+}
+p{
+    color: white;
+    margin-left: 30%;
+    margin-top: 30px;
+}
+body{
+    background-color: #6abadeba;
+}
